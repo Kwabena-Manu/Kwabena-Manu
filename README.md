@@ -1,4 +1,8 @@
+## Hi, I am Kwabena but I go by Kobby!
 
+🧠 Computer Science student at University of California, Davis <br/>
+🤖 I am pragmatic Software Engineer who has an interest Machine Learning Applications!
+🧑‍💻 Python, C# and JavaScript are my strongest programming languages but I have worked with Java, C++, C and Go as well!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kwabenamanu) 
 
